@@ -1,4 +1,4 @@
-Первый вариант
+-- Первый вариант
 
 -- Открываем файлы
 local fileid = fileOpen("fileid.txt")
